@@ -42,7 +42,7 @@ export default function Footer() {
           Made with <span className="heart">&#9829;</span> in India
           <p className="bottom">
             Copyright ©{" "}
-            <a href="https://rithikamarnath.com">rithikamarnath.com</a> 2023
+            <a href="https://rishikamarnath.com">rishikamarnath.com</a> 2023
           </p>
         </div>
       </div>

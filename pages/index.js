@@ -14,14 +14,12 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>
-          Syamlal CM ← Software Engineer & Internet Entrepreneur, Founder & CEO
-          at Floyet Technologies, • Next.js • React.js • Express.js • MongoDB
+          Rishik Amarnath ← A Student. I am studying 3rd STD in Jeevana School.
         </title>
         <meta
           name="description"
           content="
-        Syamlal CM is a Software Engineer & Internet Entrepreneur. He is the Founder & CEO
-        at Floyet Technologies."
+          Rishik Amarnath ← A Student. I am studying 3rd STD in Jeevana School.."
         />
         <meta name="theme-color" content="#ffffff" />
 
@@ -29,21 +27,19 @@ export default function Home() {
         <meta
           name="og:title"
           content="
-          Syamlal CM ← Software Engineer & Internet Entrepreneur, Founder & CEO
-          at Floyet Technologies, • Next.js • React.js • Express.js • MongoDB"
+          Rishik Amarnath ← A Student. I am studying 3rd STD in Jeevana School."
         />
         <meta
           name="keywords"
-          content="syam,lal,cm,syamlal,syamlal cm,software engineer, internet entrepreneur"
+          content="Rishik Amarnath ← A Student. I am studying 3rd STD in Jeevana School."
         />
-        <meta name="og:url" content="https://rithikamarnath.com" />
+        <meta name="og:url" content="https://rishikamarnath.com" />
         <meta
           name="og:description"
           content="
-          Syamlal CM is a Software Engineer & Internet Entrepreneur. He is the Founder & CEO
-        at Floyet Technologies."
+          Rishik Amarnath ← A Student. I am studying 3rd STD in Jeevana School."
         />
-        <meta name="og:image" content="/assets/images/syamlal-og.jpg" />
+        <meta name="og:image" content="/assets/images/rishik.png" />
 
         <link rel="icon" href="/favicon.ico" />
 

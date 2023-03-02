@@ -6,7 +6,7 @@ export default function About() {
       <h2>About</h2>
       <img src="/assets/svg/line.svg" className="line" />
       <p>
-        Hello! I'm Rithik Amarnath, a Student. I am studying 3rd STD in Jeevana
+        Hello! I'm Rishik Amarnath, a Student. I am studying 3rd STD in Jeevana
         School. also am the brand ambasidor for VillageCodeFactory Private
         Limited.
         <br />

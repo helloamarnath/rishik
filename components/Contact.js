@@ -9,13 +9,13 @@ export default function Contact() {
       <Row className={styles.boxes}>
         <Col lg={4} md={6} sm={12}>
           <a
-            href="mailto:hi@rithikamarnath.com"
+            href="mailto:hi@rishikamarnath.com"
             target="_blank"
             rel="noreferrer"
             className={styles.box}
           >
             <i className="bi bi-envelope"></i>
-            hi@rithikamarnath.com
+            hi@rishikamarnath.com
           </a>
         </Col>
       </Row>
